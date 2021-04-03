@@ -82,7 +82,7 @@ a {
 }
 
 @media only screen and (max-width: 768px){
-     h1 {
+    h1 {
     position: absolute1;
     color: white;
     font-family: Papyrus, Fantasy;
@@ -96,7 +96,7 @@ a {
 .image1 {
     position: absolute;
     top: 30px;
-    left: 40px;
+    left: 30px;
 }
 .image1 img{width: 340px;height:310px;}
 
@@ -115,7 +115,7 @@ a {
     text-indent: 30px;
     font-family: "Times New Roman", Times, serif;
     width: 300px;
-    top: 300px;
+    top: 500px;
     left: 50px;
     font-size: 13px;
 }
@@ -126,7 +126,7 @@ a {
     text-indent: 30px;
     font-family: "Times New Roman", Times, serif;
     width: 300px;
-    top: 370px;
+    top: 550px;
     left: 50px;
     font-size: 13px;
 }
@@ -137,7 +137,7 @@ a {
     text-indent: 30px;
     font-family: "Times New Roman", Times, serif;
     width: 300px;
-    top: 470px;
+    top: 590px;
     left: 50px;
     font-size: 13px;
 }
