@@ -137,7 +137,7 @@ a {
     font-family: Papyrus, Fantasy;
     font-size: 15px;
     top: 85px;
-    left: 35px;
+    left: 31px;
 }
 
 .image1 {
@@ -211,7 +211,7 @@ a {
     font-family: Papyrus, Fantasy;
     font-size: 15px;
     bottom: 270px;
-    left: 35px;
+    left: 31px;
 }
 
 .body {
@@ -221,7 +221,7 @@ a {
     left:40px;
     font-family: "Times New Roman", Times, serif;
     width: 360px;
-    bottom: 250px;
+    bottom: 260px;
     font-size: 11px;
 }
 
@@ -229,7 +229,7 @@ a {
     position: absolute;
     color: white;
     font-family: Papyrus, Fantasy;
-    bottom:-10px;
+    bottom:-70px;
     left:300px;
 }
 
