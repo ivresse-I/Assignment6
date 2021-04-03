@@ -123,12 +123,13 @@ a {
 }
 
 .content1 {
+    position:relative;
     color: rgb(220, 220, 220);
     text-indent: 30px;
     font-family: "Times New Roman", Times, serif;
     width: 400px;
     margin-top: 70px;
-    left: 60px;
+    left: 0px;
     font-size: 12px;
     overflow:visible;
 }
@@ -140,7 +141,7 @@ a {
     font-family: "Times New Roman", Times, serif;
     width: 400px;
     top: 10px;
-    left: -6px;
+    left: 0px;
     font-size: 12px;
 }
 
