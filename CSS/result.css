@@ -211,19 +211,18 @@ a {
     color: white;
     font-family: Papyrus, Fantasy;
     font-size: 15px;
-    bottom: 170px;
+    bottom: 260px;
     left: 35px;
 }
 
 .body {
-    position: relative;
+    position: absolute;
     color: rgb(220, 220, 220);
     text-indent: 30px;
-    margin-left: auto;
-    margin-right: auto;
+    left:40px;
     font-family: "Times New Roman", Times, serif;
     width: 360px;
-    top: 415px;
+    bottom: 240px;
     font-size: 11px;
 }
 
