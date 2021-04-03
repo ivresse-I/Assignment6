@@ -83,7 +83,7 @@ a {
 }
 
 @media only screen and (max-width: 768px){
-    h1 {
+   h1 {
     position: relative;
     color: white;
     font-family: Papyrus, Fantasy;
@@ -97,7 +97,7 @@ a {
 .image1 {
     position: relative;
     top: 30px;
-    left: 80px;
+    left: 40px;
 }
 .image1 img{width: 340px;height:270px;}
 
@@ -107,7 +107,7 @@ a {
     font-family: Papyrus, Fantasy;
     font-size: 17px;
     top: 50px;
-    left: 60px;
+    left: 35px;
 }
 
 .content {
@@ -125,11 +125,11 @@ a {
 .content1 {
     color: rgb(220, 220, 220);
     text-indent: 30px;
-    font-family: "Lucida Handwriting", Cursive;
+    font-family: "Times New Roman", Times, serif;
     width: 350px;
     margin-top: 70px;
-    margin-left: 60px;
-    font-size: 11px;
+    left: 60px;
+    font-size: 12px;
     overflow:visible;
 }
 
@@ -137,11 +137,11 @@ a {
     position: relative;
     color: rgb(220, 220, 220);
     text-indent: 30px;
-    font-family: "Lucida Handwriting", Cursive;
+    font-family: "Times New Roman", Times, serif;
     width: 350px;
     top: 10px;
     left: -6px;
-    font-size: 11px;
+    font-size: 12px;
 }
 
 .next {
