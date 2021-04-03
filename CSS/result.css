@@ -230,8 +230,8 @@ a {
     position: absolute;
     color: white;
     font-family: Papyrus, Fantasy;
-    bottom: 1px;
-    right: -66px;
+    bottom: 10px;
+    right: 0px;
 }
 
 a {
