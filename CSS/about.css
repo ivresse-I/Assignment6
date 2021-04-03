@@ -38,12 +38,13 @@ h1 {
 }
 
 .content1 {
+    position:absolute;
     color: rgb(220, 220, 220);
     text-indent: 30px;
     font-family: "Lucida Handwriting", Cursive;
     width: 500px;
-    margin-top: 370px;
-    margin-left: 600px;
+    top: 370px;
+    left: 600px;
     font-size: 22px;
 }
 
@@ -51,8 +52,6 @@ h1 {
     position: absolute;
     color: rgb(220, 220, 220);
     text-indent: 30px;
-    margin-left: auto;
-    margin-right: auto;
     font-family: "Lucida Handwriting", Cursive;
     width: 500px;
     top: 550px;
@@ -83,7 +82,7 @@ a {
 }
 
 @media only screen and (max-width: 768px){
-   h1 {
+    h1 {
     position: relative;
     color: white;
     font-family: Papyrus, Fantasy;
@@ -114,9 +113,9 @@ a {
     position: absolute;
     color: rgb(220, 220, 220);
     text-indent: 30px;
-    font-family:"Times New Roman", Times, serif;
+    font-family: "Times New Roman", Times, serif;
     width: 300px;
-    top: 490px;
+    top: 300px;
     left: 50px;
     font-size: 13px;
 }
@@ -127,7 +126,7 @@ a {
     text-indent: 30px;
     font-family: "Times New Roman", Times, serif;
     width: 300px;
-    top: 510px;
+    top: 370px;
     left: 50px;
     font-size: 13px;
 }
@@ -138,7 +137,7 @@ a {
     text-indent: 30px;
     font-family: "Times New Roman", Times, serif;
     width: 300px;
-    top: 550px;
+    top: 470px;
     left: 50px;
     font-size: 13px;
 }
