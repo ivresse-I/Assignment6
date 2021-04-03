@@ -111,25 +111,25 @@ a {
 }
 
 .content {
-    position: relative;
+    position: absolute;
     color: rgb(220, 220, 220);
     text-indent: 30px;
     font-family:"Times New Roman", Times, serif;
-    width: 400px;
+    width: 300px;
     top: 60px;
-    left: 60px;
+    left: 50px;
     right:auto;
     font-size: 12px;
 }
 
 .content1 {
-    position:relative;
+    position:absolute;
     color: rgb(220, 220, 220);
     text-indent: 30px;
     font-family: "Times New Roman", Times, serif;
-    width: 400px;
+    width: 300px;
     margin-top: 70px;
-    left: 0px;
+    left: 50px;
     font-size: 12px;
     overflow:visible;
 }
@@ -139,9 +139,9 @@ a {
     color: rgb(220, 220, 220);
     text-indent: 30px;
     font-family: "Times New Roman", Times, serif;
-    width: 400px;
+    width: 300px;
     top: 10px;
-    left: 0px;
+    left: 50px;
     font-size: 12px;
 }
 
