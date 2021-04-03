@@ -141,7 +141,7 @@ a {
     position: absolute;
     color: rgb(220, 220, 220);
     text-indent: 30px;
-    left: 80px;
+    left: 70px;
     font-family: "Times New Roman", Times, serif;
     width: 360px;
     top: 575px;
@@ -153,7 +153,7 @@ a {
     color: white;
     font-family: Papyrus, Fantasy;
     top:-550px;
-    left:350px;
+    left:340px;
 }
 
 .back {
@@ -161,7 +161,7 @@ a {
     color: white;
     font-family: Papyrus, Fantasy;
     bottom:-10px;
-    left: 350px;
+    left: 340px;
 }
 
 a {
