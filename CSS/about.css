@@ -116,10 +116,9 @@ a {
     text-indent: 30px;
     font-family:"Times New Roman", Times, serif;
     width: 300px;
-    top: 300px;
+    top: 500px;
     left: 50px;
-    right:auto;
-    font-size: 12px;
+    font-size: 13px;
 }
 
 .content1 {
@@ -128,10 +127,9 @@ a {
     text-indent: 30px;
     font-family: "Times New Roman", Times, serif;
     width: 300px;
-    top: 370px;
+    top: 530px;
     left: 50px;
-    font-size: 12px;
-    overflow:visible;
+    font-size: 13px;
 }
 
 .content2 {
@@ -140,9 +138,9 @@ a {
     text-indent: 30px;
     font-family: "Times New Roman", Times, serif;
     width: 300px;
-    top: 470px;
+    top: 570px;
     left: 50px;
-    font-size: 12px;
+    font-size: 13px;
 }
 
 .next {
