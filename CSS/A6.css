@@ -74,10 +74,11 @@ a {
         color: white;
         font-family: "Lucida Console", "Courier New", monospace;
         font-size: 85px;
+        top:auto;
         left: auto;
         text-align: center;
         width: 100%;
-        top: 60%;
+        top: 40%;
     }
 
     #image1 {
