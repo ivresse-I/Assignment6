@@ -62,7 +62,7 @@ a {
         color: white;
         font-family: "Lucida Console", "Courier New", monospace;
         font-size: 85px;
-        top: 30px;
+        top: 50px;
         left: auto;
         width: 100%;
         text-align: center;
@@ -76,7 +76,7 @@ a {
         left: auto;
         text-align: center;
         width: 100%;
-        top: 200px;
+        top: 220px;
     }
 
     #image1 {
