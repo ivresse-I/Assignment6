@@ -82,8 +82,8 @@ a {
 }
 
 @media only screen and (max-width: 768px){
-    h1 {
-    position: relative;
+     h1 {
+    position: absolute1;
     color: white;
     font-family: Papyrus, Fantasy;
     font-size: 23px;
@@ -94,14 +94,14 @@ a {
 }
 
 .image1 {
-    position: relative;
+    position: absolute;
     top: 30px;
     left: 40px;
 }
 .image1 img{width: 340px;height:310px;}
 
 .topic {
-    position: relative;
+    position: absolute;
     color: white;
     font-family: Papyrus, Fantasy;
     font-size: 17px;
