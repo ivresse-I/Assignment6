@@ -229,7 +229,7 @@ a {
     position: absolute;
     color: white;
     font-family: Papyrus, Fantasy;
-    bottom: 10px;
+    bottom:-10px;
     left:300px;
 }
 
