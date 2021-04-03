@@ -1,0 +1,243 @@
+html {
+    background-color: black
+}
+
+h1 {
+    position: absolute;
+    color: white;
+    font-family: Papyrus, Fantasy;
+    font-size: 45px;
+    top: 26px;
+    left: 560px;
+}
+
+.topic1 {
+    position: absolute;
+    color: white;
+    font-family: Papyrus, Fantasy;
+    font-size: 21px;
+    top: 155px;
+    left: 155px;
+}
+
+.image1 {
+    position: absolute;
+    top: 210px;
+    left: 150px;
+}
+
+.word1 {
+    position: absolute;
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 17px;
+    top: 382px;
+    left: 159px;
+}
+
+.image2 {
+    position: absolute;
+    top: 210px;
+    left: 440px;
+}
+
+.word2 {
+    position: absolute;
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 17px;
+    top: 382px;
+    left: 500px;
+}
+
+.image3 {
+    position: absolute;
+    top: 210px;
+    right: 410px;
+}
+
+.word3 {
+    position: absolute;
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 17px;
+    top: 382px;
+    right: 455px;
+}
+
+.image4 {
+    position: absolute;
+    top: 210px;
+    right: 165px;
+}
+
+.word4 {
+    position: absolute;
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 17px;
+    top: 382px;
+    right: 215px;
+}
+
+.image1 img{width: 160px;height:150px;}
+.image2 img{width:160px;height:150px;}
+.image3 img{width:160px;height:150px;}
+.image4 img{width:160px;height:150px;}
+
+.topic2 {
+    position: absolute;
+    color: white;
+    font-family: Papyrus, Fantasy;
+    font-size: 21px;
+    bottom: 240px;
+    left: 155px;
+}
+
+.body {
+    position: relative;
+    color: rgb(220, 220, 220);
+    text-indent: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: "Times New Roman", Times, serif;
+    width: 800px;
+    top: 480px;
+    font-size: 17px;
+}
+
+.back {
+    position: absolute;
+    color: white;
+    font-family: Papyrus, Fantasy;
+    bottom: 10px;
+    right: -160px;
+}
+
+a {
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 17px;
+}
+
+@media only screen and (max-width: 768px){
+    h1 {
+    position: absolute;
+    color: white;
+    font-family: Papyrus, Fantasy;
+    font-size: 26px;
+    top: 20px;
+    left: auto;
+    width: 100%; 
+    text-align: center; 
+}
+
+.topic1 {
+    position: absolute;
+    color: white;
+    font-family: Papyrus, Fantasy;
+    font-size: 15px;
+    top: 85px;
+    left: 35px;
+}
+
+.image1 {
+    position: absolute;
+    top: 130px;
+    left: 100px;
+}
+
+.word1 {
+    position: absolute;
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 9px;
+    top: 220px;
+    left: 95px;
+}
+
+.image2 {
+    position: absolute;
+    top: 130px;
+    left: 300px;
+}
+
+.word2 {
+    position: absolute;
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 9px;
+    top: 220px;
+    left: 320px;
+}
+
+.image3 {
+    position: absolute;
+    top: 270px;
+    left: 100px;
+}
+
+.word3 {
+    position: absolute;
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 9px;
+    top: 355px;
+    left:122px;
+}
+
+.image4 {
+    position: absolute;
+    top: 270px;
+    left: 300px;
+}
+
+.word4 {
+    position: absolute;
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 9px;
+    top: 352px;
+    left: 320px;
+}
+
+.image1 img{width: 80px;height:80px;}
+.image2 img{width:80px;height:80px;}
+.image3 img{width:80px;height:80px;}
+.image4 img{width:80px;height:80px;}
+
+.topic2 {
+    position: absolute;
+    color: white;
+    font-family: Papyrus, Fantasy;
+    font-size: 15px;
+    bottom: 170px;
+    left: 35px;
+}
+
+.body {
+    position: relative;
+    color: rgb(220, 220, 220);
+    text-indent: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: "Times New Roman", Times, serif;
+    width: 360px;
+    top: 415px;
+    font-size: 11px;
+}
+
+.back {
+    position: absolute;
+    color: white;
+    font-family: Papyrus, Fantasy;
+    bottom: 1px;
+    right: -66px;
+}
+
+a {
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 9px;
+}
+}

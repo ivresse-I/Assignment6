@@ -1,0 +1,172 @@
+html {
+    background-color: black
+}
+
+h1 {
+    position: absolute;
+    color: white;
+    font-family: Papyrus, Fantasy;
+    font-size: 45px;
+    top: 25px;
+    left: 300px;
+}
+
+.topic1 {
+    position: absolute;
+    color: white;
+    font-family: Papyrus, Fantasy;
+    font-size: 20px;
+    top: 150px;
+    left: 155px;
+}
+
+.intro1 {
+    position: absolute;
+    top: 200px;
+    left: 132px;
+}
+
+.intro2 {
+    position: absolute;
+    top: 200px;
+    left: 490px;
+}
+
+.intro3 {
+    position: absolute;
+    top: 200px;
+    left: 850px;
+}
+
+.intro1 img{width: 240px;height:180px;}
+.intro2 img{width:240px;height:180px;}
+.intro3 img{width:240px;height:180px;}
+
+.topic2 {
+    position: absolute;
+    color: white;
+    font-family: Papyrus, Fantasy;
+    font-size: 20px;
+    top: 445px;
+    left: 155px;
+}
+
+.content {
+    position: relative;
+    color: rgb(220, 220, 220);
+    text-indent: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: "Times New Roman", Times, serif;
+    width: 800px;
+    top: 480px;
+    font-size: 17px;
+}
+
+.next {
+    position: absolute;
+    color: white;
+    font-family: Papyrus, Fantasy;
+    top: -450px;
+    left: 950px;
+}
+
+.back {
+    position: absolute;
+    color: white;
+    font-family: Papyrus, Fantasy;
+    bottom: 10px;
+    left: 950px;
+}
+
+a {
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 17px;
+}
+
+@media only screen and (max-width: 768px){
+    h1 {
+    position: absolute;
+    color: white;
+    font-family: Papyrus, Fantasy;
+    font-size: 24px;
+    top: 20px;
+    left: auto;
+    width: 100%; 
+    text-align: center; 
+}
+
+.topic1 {
+    position: absolute;
+    color: white;
+    font-family: Papyrus, Fantasy;
+    font-size: 16px;
+    top: 85px;
+    left: 35px;
+}
+
+.intro1 {
+    position: absolute;
+    top: 150px;
+    left:150px;
+}
+
+.intro2 {
+    position: absolute;
+    top: 280px;
+    left: 150px;
+}
+
+.intro3 {
+    position: absolute;
+    top: 410px;
+    left: 150px;
+}
+
+.topic2 {
+    position: absolute;
+    color: white;
+    font-family: Papyrus, Fantasy;
+    font-size: 16px;
+    top: 540px;
+    left: 35px;
+}
+
+.intro1 img{width: 140px;height:100px;}
+.intro2 img{width:140px;height:100px;}
+.intro3 img{width:140px;height:100px;}
+
+.content {
+    position: absolute;
+    color: rgb(220, 220, 220);
+    text-indent: 30px;
+    left: 80px;
+    font-family: "Times New Roman", Times, serif;
+    width: 360px;
+    top: 575px;
+    font-size: 11px;
+}
+
+.next {
+    position: absolute;
+    color: white;
+    font-family: Papyrus, Fantasy;
+    top:-550px;
+    left:350px;
+}
+
+.back {
+    position: absolute;
+    color: white;
+    font-family: Papyrus, Fantasy;
+    bottom:-10px;
+    left: 350px;
+}
+
+a {
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 9px;
+}
+}

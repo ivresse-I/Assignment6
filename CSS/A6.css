@@ -1,0 +1,124 @@
+html {
+    background-color: black
+}
+body{position: fixed;width: 100%;height: 100%;}
+/*img{max-width: 100%}*/
+h1 {
+    position: absolute;
+    color: white;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 80px;
+    top: 180px;
+    left: 390px;
+    /* width: 100%; */
+    /* text-align: center; */
+}
+
+h2 {
+    position: absolute;
+    color: white;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 80px;
+    top: 330px;
+    left: 460px;
+}
+
+#image1 {
+    margin-bottom: 270px;
+    margin-left: 800px;
+}
+
+.image2 {
+    position: absolute;
+    bottom: 30px;
+    left: 860px;
+}
+
+.image3 {
+    position: absolute;
+    bottom: 80px;
+    left: 100px;
+}
+#image1 img{width: 420px;}
+.image2 img{width: 320px;}
+.image3 img{width: 350px;}
+.Menu {
+    position: absolute;
+    top: 30px;
+    left:500px;
+    /* width: 100%; */
+    /* text-align: center; */
+    z-index: 3;
+}
+
+a {
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 17px;
+}
+
+@media only screen and (max-width: 768px){
+    h1 {
+        position: absolute;
+        color: white;
+        font-family: "Lucida Console", "Courier New", monospace;
+        font-size: 40px;
+        top: 35%;
+        left: auto;
+        width: 100%;
+        text-align: center;
+    }
+
+    h2 {
+        position: absolute;
+        color: white;
+        font-family: "Lucida Console", "Courier New", monospace;
+        font-size: 40px;
+        top: auto;
+        left: auto;
+        text-align: center;
+        width: 100%;
+        top: 40%;
+    }
+
+    #image1 {
+        margin-bottom: inherit;
+        margin-left: inherit;
+        position: absolute;
+        right: 10px;
+        top: 10px;
+        z-index: 1;
+    }
+
+
+    .image2 {
+        position: absolute;
+        bottom: 10px;
+        right: 10px;
+        left: auto;
+    }
+    #image1 img{width: 240px;}
+    .image2 img{width: 200px;}
+    .image3 img{width: 200px;}
+    .image3 {
+        position: absolute;
+        bottom: 10px;
+        left: 10px;
+        z-index: 1;
+    }
+
+    .Menu {
+        position: absolute;
+        top: auto;
+        left: auto;
+        width: 100%;
+        text-align: center;
+    }
+
+    a {
+        color: white;
+        font-family: "Times New Roman", Times, serif;
+        font-size: 10px;
+    }
+}
+

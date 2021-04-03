@@ -1,0 +1,168 @@
+html {
+    background-color: black
+}
+h1 {
+    position: absolute;
+    color: white;
+    font-family: Papyrus, Fantasy;
+    font-size: 45px;
+    top: 25px;
+    left: 490px;
+}
+
+.image1 {
+    position: absolute;
+    top: 170px;
+    left: 160px;
+}
+.image1 img{width: 380px;height:420px;}
+
+.topic {
+    position: absolute;
+    color: white;
+    font-family: Papyrus, Fantasy;
+    font-size: 29px;
+    top: 170px;
+    left: 600px;
+}
+
+.content {
+    position: absolute;
+    color: rgb(220, 220, 220);
+    text-indent: 30px;
+    font-family: "Lucida Handwriting", Cursive;
+    width: 500px;
+    top: 240px;
+    left: 600px;
+    font-size: 22px;
+}
+
+.content1 {
+    color: rgb(220, 220, 220);
+    text-indent: 30px;
+    font-family: "Lucida Handwriting", Cursive;
+    width: 500px;
+    margin-top: 370px;
+    margin-left: 600px;
+    font-size: 22px;
+}
+
+.content2 {
+    position: absolute;
+    color: rgb(220, 220, 220);
+    text-indent: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: "Lucida Handwriting", Cursive;
+    width: 500px;
+    top: 550px;
+    left: 600px;
+    font-size: 22px;
+}
+
+.next {
+    position: absolute;
+    color: white;
+    font-family: Papyrus, Fantasy;
+    top: 20px;
+    right: 20px;
+}
+
+.back {
+    position: absolute;
+    color: white;
+    font-family: Papyrus, Fantasy;
+    bottom: 20px;
+    right: 20px;
+}
+
+a {
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 17px;
+}
+
+@media only screen and (max-width: 768px){
+    h1 {
+    position: relative;
+    color: white;
+    font-family: Papyrus, Fantasy;
+    font-size: 23px;
+    top: 20px;
+    left: auto;
+    width: 100%; 
+    text-align: center; 
+}
+
+.image1 {
+    position: relative;
+    top: 30px;
+    left: 80px;
+}
+.image1 img{width: 340px;height:270px;}
+
+.topic {
+    position: relative;
+    color: white;
+    font-family: Papyrus, Fantasy;
+    font-size: 17px;
+    top: 50px;
+    left: 60px;
+}
+
+.content {
+    position: relative;
+    color: rgb(220, 220, 220);
+    text-indent: 30px;
+    font-family: "Lucida Handwriting", Cursive;
+    width: 350px;
+    top: 60px;
+    left: 60px;
+    right:auto;
+    font-size: 11px;
+}
+
+.content1 {
+    color: rgb(220, 220, 220);
+    text-indent: 30px;
+    font-family: "Lucida Handwriting", Cursive;
+    width: 350px;
+    margin-top: 70px;
+    margin-left: 60px;
+    font-size: 11px;
+    overflow:visible;
+}
+
+.content2 {
+    position: relative;
+    color: rgb(220, 220, 220);
+    text-indent: 30px;
+    font-family: "Lucida Handwriting", Cursive;
+    width: 350px;
+    top: 10px;
+    left: -6px;
+    font-size: 11px;
+}
+
+.next {
+    position: absolute;
+    color: white;
+    font-family: Papyrus, Fantasy;
+    top: 20px;
+    right: 20px;
+}
+
+.back {
+    position: absolute;
+    color: white;
+    font-family: Papyrus, Fantasy;
+    bottom: 20px;
+    right: 20px;
+}
+
+a {
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 9px;
+}
+}
