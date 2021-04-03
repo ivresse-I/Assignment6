@@ -221,7 +221,7 @@ a {
     left:40px;
     font-family: "Times New Roman", Times, serif;
     width: 360px;
-    bottom: 260px;
+    top:450px;
     font-size: 11px;
 }
 
@@ -229,7 +229,7 @@ a {
     position: absolute;
     color: white;
     font-family: Papyrus, Fantasy;
-    bottom:-70px;
+    bottom:-150px;
     left:300px;
 }
 
