@@ -62,8 +62,8 @@ a {
         position: absolute;
         color: white;
         font-family: "Lucida Console", "Courier New", monospace;
-        font-size: 80px;
-        top: 30%px;
+        font-size: 90px;
+        top: 20%px;
         left: auto;
         width: 100%;
         text-align: center;
@@ -73,12 +73,12 @@ a {
         position: absolute;
         color: white;
         font-family: "Lucida Console", "Courier New", monospace;
-        font-size: 80px;
+        font-size: 90px;
         top: auto;
         left: auto;
         text-align: center;
         width: 100%;
-        top: 40%;
+        top: 45%;
     }
 
     #image1 {
